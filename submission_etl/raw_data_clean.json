@@ -1,0 +1,8002 @@
+[
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 2",
+    "price": "102.15",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 3",
+    "price": "496.88",
+    "rating": "Rating: ⭐ 4.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 4",
+    "price": "467.31",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 5",
+    "price": "321.59",
+    "rating": "Rating: ⭐ 3.5 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 6",
+    "price": "153.37",
+    "rating": "Rating: ⭐ 3.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 7",
+    "price": "430.75",
+    "rating": "Rating: ⭐ 4.3 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 8",
+    "price": "487.66",
+    "rating": "Rating: ⭐ 3.1 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 9",
+    "price": "248.26",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 10",
+    "price": "193.76",
+    "rating": "Rating: ⭐ 4.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Unknown Product",
+    "price": "100.00",
+    "rating": "Rating: ⭐ Invalid Rating / 5",
+    "colors": "5 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Jacket 12",
+    "price": "532.99",
+    "rating": "Rating: ⭐ 3.9 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 13",
+    "price": "340.45",
+    "rating": "Rating: ⭐ 3.2 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 14",
+    "price": "203.05",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Hoodie 15",
+    "price": "136.51",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Pants 16",
+    "price": "Price Unavailable",
+    "rating": "Rating: Not Rated",
+    "colors": "8 Colors",
+    "size": "Size: S",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "Outerwear 17",
+    "price": "52.60",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: M",
+    "gender": "Gender: Women"
+  },
+  {
+    "title": "Jacket 18",
+    "price": "343.75",
+    "rating": "Rating: ⭐ 3.8 / 5",
+    "colors": "3 Colors",
+    "size": "Size: L",
+    "gender": "Gender: Unisex"
+  },
+  {
+    "title": "Crewneck 19",
+    "price": "81.81",
+    "rating": "Rating: ⭐ 3.6 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XL",
+    "gender": "Gender: Men"
+  },
+  {
+    "title": "T-shirt 20",
+    "price": "82.85",
+    "rating": "Rating: ⭐ 3.4 / 5",
+    "colors": "3 Colors",
+    "size": "Size: XXL",
+    "gender": "Gender: Women"
+  }
+]

@@ -21,13 +21,6 @@ Untuk menjalankan dan melihat test coverage:
 # URL Google Sheets
 Tidak digunakan. Seluruh hasil ETL pipeline hanya disimpan dalam bentuk file CSV (products.csv) di direktori utama proyek.
 
-# catatan pribadi
-kak maaf, setelah saya melihat catatan dari reviewer, 
-disitu mengatakan data hasil transform itu ada sekitar 800-an, 
-tetapi hal itu bertolak belakang dengann
-kriteria tahapan transformasi : "Data yang didapat tidak memiliki duplikat data."
-jika saya menggunakan fungsi : df.drop_duplicates(subset=["title"], inplace=True)
-maka data yang dihasilkan adalah 17, tetapi 
-reviewer mengatakan data yang dihasilkan adalah 800-an.
+
 
 
